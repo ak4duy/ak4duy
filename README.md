@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-%235865F2.svg?&logo=discord&style=flat-square&logoColor=white)](https://discord.com/users/799965541283528714)
-[![PGP](https://img.shields.io/badge/pgp-0x008D5D698AD3329A-23232F?style=flat-square)](https://github.com/ak4duy.gpg)
+[![PGP](https://img.shields.io/badge/pgp-0xB2F370F41794D967-23232F?style=flat-square)](https://github.com/ak4duy.gpg)
 [![Views](https://komarev.com/ghpvc/?username=ak4duy&style=flat-square&color=%23232F3E&label=views)](https://github.com/ak4duy)
 [![Mail](https://img.shields.io/badge/-6D4AFF?logo=protonmail&style=flat-square&logoColor=fff)](mailto:akaduy@protonmail.me)
 </div>

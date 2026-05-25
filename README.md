@@ -38,3 +38,5 @@ Currently contributing to [Kopuz](https://github.com/Kopuz-org/kopuz) - an open-
 <div align="center">
 <sub>code, ideas, and the journey in between.</sub>
 </div>
+
+![test](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4duy&layout=compact&size_weight=0.5&count_weight=0.5)
